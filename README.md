@@ -1,4 +1,4 @@
-# Trabalho de Conclusão de Curco
+# Trabalho de Conclusão de Curso
 
 Trabalho de conclusão de curso apresentado à Universidade de São Paulo (EACH-USP) em 2022 para conclusão do curso de Bacharelado em Biotecnologia. 
 
